@@ -12,33 +12,40 @@ public partial class RegistroFamilia : System.Web.UI.Page
     {
         "Padre",
         "Madre",
-        "Hermano(a)",
-        "Tio(a)",
+        "Hermano",
+        "Hermana",
+        "Tio",
+        "Tia",
+        "Abuelo",
+        "Abuela"
     };
 
     protected void Page_Load(object sender, EventArgs e)
     {
-        if (Session["IdRol"] != null && Session["IdUsuario"] != null)
+        if (!IsPostBack)
         {
-            int IdRol = Convert.ToInt32(Session["IdRol"]);
+            if (Session["IdRol"] != null && Session["IdUsuario"] != null)
+            {
+                int IdRol = Convert.ToInt32(Session["IdRol"]);
 
-            if (IdRol == 1)
-            {
-                //Administrador
-            }
-            else if (IdRol == 2 || IdRol == 3)
-            {
-                for (int x = 0; x < listParentesco.Count; x++)
+                if (IdRol == 1)
                 {
-                    parentescoDrop.Items.Add(listParentesco[x]);
-                    parentescoDrop.Items[x].Value = listParentesco[x];
+                    //Administrador
                 }
+                else if (IdRol == 2 || IdRol == 3)
+                {
+                    for (int x = 0; x < listParentesco.Count; x++)
+                    {
+                        parentescoDrop.Items.Add(listParentesco[x]);
+                        parentescoDrop.Items[x].Value = listParentesco[x];
+                    }
+                }
+                else
+                    Response.Redirect("~\\Login.aspx");
             }
             else
                 Response.Redirect("~\\Login.aspx");
         }
-        else
-            Response.Redirect("~\\Login.aspx");
     }
 
     protected void btnGuardar_Click(object sender, EventArgs e)
@@ -61,8 +68,12 @@ public partial class RegistroFamilia : System.Web.UI.Page
                         Foto.FotoNombre = fileUpload.FileName;
                     }
 
-                    if(!(new csFotoHandler()).Add(Foto))
+                    if (!(new csFotoHandler()).Add(Foto))
+                    {
                         Response.Write(@"<script language = 'javascript'>alert('Se guardo con exito.') </script>");
+                        txtNombreCompleto.Text = "";
+                        parentescoDrop.SelectedIndex = 0;
+                    }
                     else
                         Response.Write(@"<script language = 'javascript'>alert('Eror en el servidor. Por favor intentelo mas tarde.') </script>");
 
