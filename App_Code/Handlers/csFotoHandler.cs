@@ -17,6 +17,45 @@ public class csFotoHandler : ObjectBase
         //
     }
 
+    public List<csFoto> GetList(int IdInformacionUsuario, out bool exceptionServices)
+    {
+        exceptionServices = false;
+        List<csFoto> Fotos = new List<csFoto>();
+        Data objData = new Data();
+        string strQuery = string.Empty;
+
+        try
+        {
+            objData.OpenConnection();
+
+            MySqlParameter Param = new MySqlParameter("@IdInformacionUsuario", IdInformacionUsuario);
+            Param.DbType = DbType.Int32;
+
+            strQuery = "select * from tbFotos where IdInformacionUsuario = @IdInformacionUsuario;";
+
+            DataTable dt = objData.ExecuteSPQuery(Param, strQuery);
+
+            for(int x = 0; x < dt.Rows.Count; x++)
+            {
+                csFoto Foto = new csFoto();
+                Foto.LoadFromDataRow(dt.Rows[x]);
+                Fotos.Add(Foto);
+            }
+        }
+        catch(Exception ex)
+        {
+            LogError(ex.Message + ex.StackTrace);
+            exceptionServices = true;
+        }
+        finally
+        {
+            objData.CloseConnection();
+            objData = null;
+        }
+
+        return Fotos;
+    }
+
     public bool Add(csFoto Foto)
     {
         Data objData = new Data();
