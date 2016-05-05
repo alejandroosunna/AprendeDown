@@ -44,3 +44,19 @@ create table tbFotos(
     constraint FK_tbFotos_IdInformacionUsuario foreign key(IdInformacionUsuario)
 		references tbInformacionUsuarios(IdInformacionUsuario) on update cascade
 );
+
+create table tbJuegosAdivina(
+	IdJuegoAdivina int unique auto_increment not null,
+	Nombre nvarchar(100),
+	constraint PK_tbJuegosAdivina_IdJuegoAdivina primary key(IdJuegoAdivina)
+);
+
+create table tbImagenes(
+	IdImagen int unique auto_increment not null,
+	IdJuegoAdivina int not null,
+	Descripcion nvarchar(50),
+	Imagen nvarchar(10000),
+	constraint PK_tbJImagenes_IdImagen primary key(IdImagen),
+	constraint FK_tbImagenes_IdJuegoAdivina foreign key(IdJuegoAdivina)
+		references tbJuegosAdivina(IdJuegoAdivina) on update cascade
+);
