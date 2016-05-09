@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="AdivinaFamilia.aspx.cs" Inherits="AdivinaFamilia" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="AdivinaAnimales.aspx.cs" Inherits="AdivinaAnimales" %>
 
 <!DOCTYPE html>
 
@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="frmAdivinaFamilia" runat="server">
+    <form id="frmAdivinaAnimales" runat="server">
     <div>
         <asp:Label ID="lblParentesco" runat="server"></asp:Label>
         <br />
