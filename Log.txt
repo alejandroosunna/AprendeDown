@@ -1,1 +1,207 @@
 ﻿
+21/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:14. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:15. La cadena de entrada no tiene el formato correcto.   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csUsuarioHandler.CheckExist(String Username, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csUsuarioHandler.cs:línea 111
+
+21/5/2016 23:15. La cadena de entrada no tiene el formato correcto.   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csUsuarioHandler.CheckExist(String Username, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csUsuarioHandler.cs:línea 111
+
+21/5/2016 23:19. La cadena de entrada no tiene el formato correcto.   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csUsuarioHandler.CheckExist(String Username, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csUsuarioHandler.cs:línea 111
+
+21/5/2016 23:27. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:27. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:28. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:28. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:29. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:30. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:31. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:31. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:33. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:34. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:34. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:35. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:35. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:35. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:36. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:36. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:38. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:39. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:39. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:48. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:49. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:50. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:50. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:51. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:51. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+21/5/2016 23:58. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+22/5/2016 0:00. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+22/5/2016 0:01. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+22/5/2016 0:05. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+22/5/2016 0:05. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+22/5/2016 0:06. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:47. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:54. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:55. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:57. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:57. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 22:58. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:01. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:02. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:03. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:07. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:08. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:08. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:09. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:10. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:10. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:11. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:12. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:14. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:14. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:14. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:15. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:16. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:17. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:17. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:17. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:20. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:20. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:21. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
+
+23/5/2016 23:21. Unable to convert MySQL date/time value to System.DateTime   en Data.ExecuteSPQuery(MySqlParameter Parameter, String SPName) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Utility\Data.cs:línea 163
+   en csInformacionUsuarioHandler.Get(Int32 IdUsuario, Boolean& exceptionServies) en c:\Users\qiqe_\OneDrive\Documentos\GitHub\AprendeDown\App_Code\Handlers\csInformacionUsuarioHandler.cs:línea 35
